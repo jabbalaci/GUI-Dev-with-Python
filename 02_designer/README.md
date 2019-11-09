@@ -21,7 +21,7 @@ It will install PyQt5 globally on your system.
 On my machine, Python was installed to the folder
 `C:\Python37`, thus `designer.exe` was put here:
 
-    c:\Python37\Scripts\designer.exe
+    C:\Python37\Scripts\designer.exe
 
 Usage
 -----
