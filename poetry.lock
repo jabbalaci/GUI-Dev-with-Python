@@ -1,0 +1,26 @@
+[[package]]
+category = "main"
+description = "Python bindings for the Qt cross platform UI and application toolkit"
+name = "pyqt5"
+optional = false
+python-versions = "*"
+version = "5.13.2"
+
+[package.dependencies]
+PyQt5_sip = ">=4.19.19,<13"
+
+[[package]]
+category = "main"
+description = "The sip module support for PyQt5"
+name = "pyqt5-sip"
+optional = false
+python-versions = ">=3.5"
+version = "12.7.0"
+
+[metadata]
+content-hash = "178ca231ddfb9a1fc47cb2f6b6e5152fb42b8b4cd532a5d906427271abd3e370"
+python-versions = "^3.7"
+
+[metadata.hashes]
+pyqt5 = ["14737bb4673868d15fa91dad79fe293d7a93d76c56d01b3757b350b8dcb32b2d", "1936c321301f678d4e6703d52860e1955e5c4964e6fd00a1f86725ce5c29083c", "3f79de6e9f29e858516cc36ffc2b992e262af841f3799246aec282b76a3eccdf", "509daab1c5aca22e3cf9508128abf38e6e5ae311d7426b21f4189ffd66b196e9"]
+pyqt5-sip = ["02d94786bada670ab17a2b62ce95b3cf8e3b40c99d36007593a6334d551840bb", "06bc66b50556fb949f14875a4c224423dbf03f972497ccb883fb19b7b7c3b346", "091fbbe10a7aebadc0e8897a9449cda08d3c3f663460d812eca3001ca1ed3526", "0a067ade558befe4d46335b13d8b602b5044363bfd601419b556d4ec659bca18", "1910c1cb5a388d4e59ebb2895d7015f360f3f6eeb1700e7e33e866c53137eb9e", "1c7ad791ec86247f35243bbbdd29cd59989afbe0ab678e0a41211f4407f21dd8", "3c330ff1f70b3eaa6f63dce9274df996dffea82ad9726aa8e3d6cbe38e986b2f", "482a910fa73ee0e36c258d7646ef38f8061774bbc1765a7da68c65056b573341", "7695dfafb4f5549ce1290ae643d6508dfc2646a9003c989218be3ce42a1aa422", "8274ed50f4ffbe91d0f4cc5454394631edfecd75dc327aa01be8bc5818a57e88", "9047d887d97663790d811ac4e0d2e895f1bf2ecac4041691487de40c30239480", "9f6ab1417ecfa6c1ce6ce941e0cebc03e3ec9cd9925058043229a5f003ae5e40", "b43ba2f18999d41c3df72f590348152e14cd4f6dcea2058c734d688dfb1ec61f", "c3ab9ea1bc3f4ce8c57ebc66fb25cd044ef92ed1ca2afa3729854ecc59658905", "da69ba17f6ece9a85617743cb19de689f2d63025bf8001e2facee2ec9bcff18f", "ef3c7a0bf78674b0dda86ff5809d8495019903a096c128e1f160984b37848f73", "fabff832046643cdb93920ddaa8f77344df90768930fbe6bb33d211c4dcd0b5e"]
